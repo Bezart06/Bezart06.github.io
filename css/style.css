@@ -4,20 +4,17 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
-* {
-    -webkit-font-smoothing: antialiased;
-    box-sizing: border-box;
-}
 
 html, body {
     margin: 0;
     height: 100%;
-    width:100%;
+    width: 100%;
     overflow-x: hidden;
 }
 
 a {
     text-decoration: none;
+    color: inherit;
 }
 
 /* index.html ∓ */
@@ -636,4 +633,495 @@ footer .list-inline-item a {
     left: 405px;
     background-color: rgb(235, 87, 87);
     border-radius: 4px;
+}
+
+/* tomato-one.html ∓ */
+
+.tomato-one {
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.tomato-one .overlap-wrapper {
+    background-color: #f7f7f7;
+    overflow: hidden;
+    width: 100%;
+    height: 1465px;
+}
+
+.tomato-one .overlap {
+    position: relative;
+    width: 90%;
+    height: 1465px;
+}
+
+.tomato-one .union {
+    position: absolute;
+    width: 1448px;
+    height: 1332px;
+    top: 67px;
+    left: 236px;
+}
+
+.tomato-one .overlap-group {
+    position: relative;
+    width: 100%;
+    height: 122px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 24px #000026;
+}
+
+.tomato-one .line {
+    width: 350px;
+    top: 28px;
+    left: 0;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+}
+
+.tomato-one .div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(50, 73, 80);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+.tomato-one .overlap-2 {
+    position: relative;
+    width: 1920px;
+    height: 127px;
+    background-color: rgb(50, 73, 80);
+}
+
+.tomato-one .overlap-3 {
+    position: absolute;
+    width: 1920px;
+    height: 76px;
+    top: 0;
+    left: 0;
+    background-color: #2c3f45;
+}
+
+.tomato-one .group {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 7px;
+    left: 7px;
+}
+
+.tomato-one .group-2 {
+    position: absolute;
+    width: 528px;
+    height: 277px;
+    top: 182px;
+    left: 405px;
+}
+
+.tomato-one .TAG-TAG {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: rgb(50, 73, 80);
+    font-size: 54px;
+    letter-spacing: 0;
+    line-height: 78px;
+}
+
+.tomato-one .text-wrapper {
+    color: #324950;
+}
+
+.tomato-one .span {
+    color: #57984c;
+}
+
+.tomato-one .img {
+    position: absolute;
+    width: 47px;
+    height: 6px;
+    top: 271px;
+    left: 0;
+}
+
+.tomato-one .image {
+    position: absolute;
+    width: 540px;
+    height: 498px;
+    top: 182px;
+    left: 975px;
+}
+
+.tomato-one .strong-vigor-that {
+    position: absolute;
+    top: 870px;
+    left: 431px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(50, 73, 80);
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 34px;
+}
+
+.tomato-one .spring-fall-winter {
+    position: absolute;
+    top: 870px;
+    left: 1005px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(50, 73, 80);
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 34px;
+}
+
+.tomato-one .ed {
+    position: absolute;
+    top: 1067px;
+    left: 975px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(50, 73, 80);
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+}
+
+.tomato-one .long-shelf-life-on {
+    position: absolute;
+    top: 1067px;
+    left: 431px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(50, 73, 80);
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 34px;
+}
+
+.tomato-one .text-wrapper-2 {
+    position: absolute;
+    top: 805px;
+    left: 405px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: rgb(87, 152, 76);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.tomato-one .text-wrapper-3 {
+    position: absolute;
+    top: 805px;
+    left: 975px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: rgb(87, 152, 76);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.tomato-one .text-wrapper-4 {
+    position: absolute;
+    top: 1002px;
+    left: 975px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: rgb(87, 152, 76);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.tomato-one .text-wrapper-5 {
+    position: absolute;
+    top: 1002px;
+    left: 405px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: rgb(87, 152, 76);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.tomato-one .group-3 {
+    position: absolute;
+    width: 499px;
+    height: 149px;
+    top: 627px;
+    left: 405px;
+}
+
+.tomato-one .resistance-HR-tomv {
+    position: absolute;
+    width: 495px;
+    top: 65px;
+    left: 0;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(50, 73, 80);
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+
+.tomato-one .text-wrapper-6 {
+    font-weight: 700;
+}
+
+.tomato-one .text-wrapper-7 {
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: #324950;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 28px;
+}
+
+.tomato-one .text-wrapper-8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: rgb(87, 152, 76);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 29px;
+    white-space: nowrap;
+}
+
+.tomato-one .line-2 {
+    width: 183px;
+    top: 40px;
+    left: 0;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+}
+
+.tomato-one .line-3 {
+    width: 183px;
+    top: 846px;
+    left: 405px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+}
+
+.tomato-one .line-4 {
+    width: 183px;
+    top: 846px;
+    left: 975px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+}
+
+.tomato-one .line-5 {
+    width: 183px;
+    top: 1043px;
+    left: 975px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+}
+
+.tomato-one .line-6 {
+    width: 183px;
+    top: 1043px;
+    left: 405px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+}
+
+.tomato-one .breadcrumbs {
+    position: absolute;
+    width: 187px;
+    height: 23px;
+    top: 140px;
+    left: 405px;
+}
+
+.tomato-one .return-to-all {
+    position: absolute;
+    top: 0;
+    left: 39px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: rgb(87, 152, 76);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.tomato-one .arrow {
+    position: absolute;
+    width: 24px;
+    height: 7px;
+    top: 7px;
+    left: 0;
+    object-fit: cover;
+}
+
+.tomato-one .group-4 {
+    position: absolute;
+    width: 500px;
+    height: 86px;
+    top: 501px;
+    left: 405px;
+}
+
+.tomato-one .p {
+    position: absolute;
+    width: 395px;
+    top: 0;
+    left: 103px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 700;
+    color: #cf2333;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 42px;
+}
+
+.tomato-one .union-wrapper {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 3px;
+    left: 0;
+    background-size: 100% 100%;
+}
+
+.tomato-one .union-2 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    top: 4px;
+    left: 12px;
+}
+
+.tomato-one .group-5 {
+    position: absolute;
+    width: 6px;
+    height: 73px;
+    top: 887px;
+    left: 405px;
+}
+
+.tomato-one .ellipse {
+    top: 0;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 0;
+    background-color: rgb(87, 152, 76);
+    border-radius: 3px;
+}
+
+.tomato-one .ellipse-2 {
+    top: 34px;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 0;
+    background-color: rgb(87, 152, 76);
+    border-radius: 3px;
+}
+
+.tomato-one .ellipse-3 {
+    top: 67px;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 0;
+    background-color: rgb(87, 152, 76);
+    border-radius: 3px;
+}
+
+.tomato-one .group-6 {
+    position: absolute;
+    width: 6px;
+    height: 73px;
+    top: 1084px;
+    left: 405px;
+}
+
+.tomato-one .group-7 {
+    position: absolute;
+    width: 6px;
+    height: 73px;
+    top: 887px;
+    left: 975px;
+}
+
+.tomato-one .btn-download-pdf {
+    position: absolute;
+    width: 227px;
+    height: 55px;
+    top: 640px;
+    left: 1290px;
+}
+
+.tomato-one .overlap-4 {
+    position: relative;
+    width: 225px;
+    height: 55px;
+    background-color: #ffffff;
+    border-radius: 60px;
+    border: 2px solid #57984c;
+}
+
+.tomato-one .download-pdf {
+    position: absolute;
+    top: 9px;
+    left: 75px;
+    font-family: "Roboto Slab", Helvetica, serif;
+    font-weight: 400;
+    color: transparent;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 34px;
+    white-space: nowrap;
+}
+
+.tomato-one .text-wrapper-9 {
+    font-weight: 700;
+    color: #57984c;
+}
+
+.tomato-one .ico-pdf {
+    position: absolute;
+    width: 28px;
+    height: 32px;
+    top: 9px;
+    left: 27px;
+    background-image: url("../images/ico-pdf.svg");
+    background-size: 100% 100%;
 }
