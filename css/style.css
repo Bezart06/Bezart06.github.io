@@ -141,7 +141,7 @@ footer .list-inline-item a {
     background-color: #324950 !important;
 }
 
-/* tomato.html ∓ */
+/* tangerine.html ∓ */
 
 .tomato-all {
     background-color: #fbf0f0;
@@ -150,7 +150,7 @@ footer .list-inline-item a {
 }
 
 .tomato-all .content {
-    background-color: #fbf0f0;
+    background-color: #ffe9d1;
     overflow: hidden;
     position: absolute;
 
@@ -170,7 +170,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 1152px;
     height: 450px;
-    top: 1204px;
+    top: 1224px;
     left: 385px;
     background-color: #fff9f9;
 }
@@ -398,7 +398,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-1.png");
+    background-image: url("../images/tangerine/tangerine-1.png");
     background-size: 100% 100%;
 }
 
@@ -441,7 +441,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-2.png");
+    background-image: url("../images/tangerine/tangerine-2.png");
     background-size: 100% 100%;
 }
 
@@ -457,7 +457,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-3.png");
+    background-image: url("../images/tangerine/tangerine-3.png");
     background-size: 100% 100%;
 }
 
@@ -486,7 +486,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-4.png");
+    background-image: url("../images/tangerine/tangerine-4.png");
     background-size: 100% 100%;
 }
 
@@ -502,7 +502,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-5.png");
+    background-image: url("../images/tangerine/tangerine-5.png");
     background-size: 100% 100%;
 }
 
@@ -531,7 +531,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-6.png");
+    background-image: url("../images/tangerine/tangerine-6.png");
     background-size: 100% 100%;
 }
 
@@ -547,7 +547,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-7.png");
+    background-image: url("../images/tangerine/tangerine-7.png");
     background-size: 100% 100%;
 }
 
@@ -563,7 +563,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 350px;
     height: 321px;
-    background-image: url("../images/tomatoes/tomato-8.png");
+    background-image: url("../images/tangerine/tangerine-8.png");
     background-size: 100% 100%;
 }
 
@@ -592,19 +592,19 @@ footer .list-inline-item a {
 .tomato-all .text-wrapper-9 {
     position: absolute;
     width: 1036px;
-    top: 1116px;
+    top: 1136px;
     left: 436px;
     font-family: "Roboto Slab", Helvetica, serif;
     font-weight: 400;
     color: rgb(50, 73, 80);
-    font-size: 17px;
     letter-spacing: 0;
     line-height: 26px;
+    font-size: 12px;
 }
 
 .tomato-all .text-wrapper-10 {
     position: absolute;
-    top: 1699px;
+    top: 1709px;
     left: 435px;
     font-family: "Roboto Slab", Helvetica, serif;
     font-weight: 700;
@@ -619,7 +619,7 @@ footer .list-inline-item a {
     position: absolute;
     width: 4px;
     height: 60px;
-    top: 1114px;
+    top: 1134px;
     left: 406px;
     background-color: rgb(235, 87, 87);
     border-radius: 4px;
@@ -629,13 +629,13 @@ footer .list-inline-item a {
     position: absolute;
     width: 4px;
     height: 40px;
-    top: 1693px;
+    top: 1703px;
     left: 405px;
     background-color: rgb(235, 87, 87);
     border-radius: 4px;
 }
 
-/* tomato-one.html ∓ */
+/* tangerine-one.html ∓ */
 
 .tomato-one {
     background-color: #f7f7f7;
